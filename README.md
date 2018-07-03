@@ -11,3 +11,6 @@ output中是发布的项目，发布后需要把index.html中加一行<script sr
 然后点击start开始录音
 点击getData会自动调用stop然后播放录音
 如果需要重新录音，需要点击clear
+
+
+另外本人不知道js中的float数组如何传入unity中，只能用在unity中for循环一个个赋值的笨办法
